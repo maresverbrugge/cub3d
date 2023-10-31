@@ -1,4 +1,4 @@
-NO ./textures/diamond.png
+NO ./pictures/other_textures/diamond.png
 
 
 
@@ -6,10 +6,10 @@ SO ./texture/wood.png
 
 
 
-WE ./textures/stone.png
+WE ./pictures/other_textures/stone.png
 
 
-EA ./textures/gold.png
+EA ./pictures/other_textures/gold.png
 
 F     254,100,5
 C     225,3,4

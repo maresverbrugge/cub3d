@@ -3,8 +3,8 @@ C 0, 0, 255
 
 SO ./pictures/wolf_textures/mossy.png
 EA ./pictures/wolf_textures/purplestone.png
-WE ./pictures/new-us.png
-NO ./pictures/new-us.png 
+WE ./pictures/other_textures/new-us.png
+NO ./pictures/other_textures/new-us.png 
 
 
 

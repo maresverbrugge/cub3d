@@ -1,15 +1,15 @@
-NO ./textures/diamond.png
+NO ./pictures/other_textures/diamond.png
 
 
 
-SO ./textures/diamond.png
+SO ./pictures/other_textures/diamond.png
 
 
 
-WE ./textures/diamond.png
+WE ./pictures/other_textures/diamond.png
 
 
-EA ./textures/diamond.png
+EA ./pictures/other_textures/diamond.png
 
 F a,100,0
 C 225,30v,0

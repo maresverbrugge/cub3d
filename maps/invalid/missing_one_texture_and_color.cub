@@ -1,14 +1,14 @@
-NO ./textures/diamond.png
+NO ./pictures/other_textures/diamond.png
 
 
 
-SO ./textures/wood.png
+SO ./pictures/other_textures/wood.png
 
 
 
 
 
-EA ./textures/gold.png
+EA ./pictures/other_textures/gold.png
 
 C     225,3,4
 
