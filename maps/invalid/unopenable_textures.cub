@@ -1,0 +1,21 @@
+NO ./textures/cant_be_opened.png
+
+
+
+SO ./textures/diamond.png
+
+
+
+WE ./textures/diamond.png
+
+
+EA ./textures/diamond.png
+
+F 220,100,0
+C 225,30,0
+
+111111
+100101
+101001
+1000S1
+111111
